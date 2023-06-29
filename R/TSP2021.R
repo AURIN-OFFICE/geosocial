@@ -1,0 +1,15 @@
+#' Time series profile SA3
+#'
+#' The Time series profile contains the Census characteristics of persons,
+#' families and dwellings over time. The data is based on place of usual residence.
+#'
+#' The 2021 Time series profile contains data from the 2011, 2016, and 2021 Censuses.
+#' Where classifications have been revised, output are based on the classification used for the 2021 Census.
+#'
+#' When interpreting the results from different time periods, take care as censuses are based on a point in time.
+#' Changes to the Census form design, collection procedures and processing may impact the comparability of data.
+#' @format ## `TSP2021`
+#' A data frame with 358 Statistical Area Level 3 (SA3) and 35 Sociodemographic characteristics.
+#'
+#' @source <https://www.abs.gov.au/census/guide-census-data/about-census-tools/datapacks#:~:text=The%20Time%20series%20profile%20contains,%2C%202016%2C%20and%202021%20Censuses.>
+"TSP2021"

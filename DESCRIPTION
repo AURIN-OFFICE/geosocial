@@ -1,0 +1,18 @@
+Package: geosocial
+Type: Package
+Title: IRISS WP3 GeoSocial solution - Toolbox
+Version: 1.0
+Author: Australian Urban Research Infrastructure Network (AURIN)
+Maintainer: Pascal Perez <pascal.perez@unimelb.edu.au>,German Gonzalez <german.gonzalez@unimelb.edu.au>, Masoud Rahimi <masoud.rahimi@unimelb.edu.au>
+Description: 
+License: GLP-3
+Encoding: UTF-8
+LazyData: true
+Imports: haven, dplyr, sjlabelled, openxlsx, rjson, dataverse, tidyverse
+Depends: 
+    haven,
+    dplyr,
+    sjlabelled,
+    openxlsx,rjson,dataverse,tidyverse,
+    R (>= 2.10)
+RoxygenNote: 7.2.3
